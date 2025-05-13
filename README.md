@@ -9,7 +9,7 @@
 <header>
   <div align="center">
     <a href="https://main.d36hvtwvjcdlze.amplifyapp.com">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Evaldas Mackonis&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=mackka2k&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
   </div>
 </header>
